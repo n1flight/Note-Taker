@@ -1,4 +1,8 @@
 # Note Taker
+---
+## Deployed page
+https://fierce-dusk-58021.herokuapp.com/
+---
 ## Description
 This is a simple note taking application where you can add, save, and delete notes
 ---
